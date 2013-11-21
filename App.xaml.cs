@@ -13,7 +13,6 @@ namespace QuierobesarteApp
 {
     public partial class App : Application
     {
-
         //internal const string baseUrl = "10.0.2.18:8001";
         //internal const string baseUrl = "10.1.2.233:8001";
         internal const string baseUrl = "loreto.cc";
