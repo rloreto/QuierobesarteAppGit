@@ -18,6 +18,8 @@ namespace QuierobesarteApp
         internal const string baseUrl = "loreto.cc";
 
 
+
+
         private static MainViewModel viewModel = null;
         public static NavigationService CurrentNavigationService;
 
